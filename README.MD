@@ -5,10 +5,10 @@ This is project have objective to create a chatbot with Streamlit, Lanchain
 and OpenAI, use RAG pattern. 
 
 ## 🚀 Env Setup
-    pip insall -r requirements.txt
+    pip install -r requirements.txt
 
-## 🔑 Change env OPENAI_API_KEY
-    value change OPENAI_API_KEY in .env file
+## 🔑 Change env HUGGINGFACEHUB_API_TOKEN
+    value change HUGGINGFACEHUB_API_TOKEN in .env file
 
 ## 🇧🇷 Run app
     streamlit run main.py
